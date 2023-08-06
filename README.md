@@ -8,10 +8,10 @@ And test it using Jest too.
 
 index.js
 ```javascript
-function removeOverlaps(plainTextPositions) 
+function removeOverlaps(plainTextPositions);
 //takes plainTextPositions array and removes any overlaps.
 
-function highlightHTMLContent(htmlContent, plainText, plainTextPositions)
+function highlightHTMLContent(htmlContent, plainText, plainTextPositions);
 //inserts <mark> tag at required positions.
 ```
 
